@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <Navbar search ="search here"/>
-    <Textarea click ="click here to sort"/>
+    <Textarea click ="click here to sort" preview ="Text Preview"/>
     </>
   );
 }
